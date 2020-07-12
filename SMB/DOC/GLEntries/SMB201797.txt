@@ -1,0 +1,437 @@
+                     SMB LEASING PLC.                                                                                    
+             NO.282/1,CBS BUILDING,,GALLE RD,                            
+                   COLOMBO 03.,SRI LANKA                                       
+      TELE. NO : 0112683709     FAX NO :  0112683709              
+
+       INTERFACE VALIDATION REPORT FOR INBANK SYSTEM               
+Date & Time:07/09/17  5:22 PM        Page No  :            
+Printed By :SUPER                    Report No:  0        
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586117
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  083127    
+BANK CODE       :  716
+BRANCH CODE     :  065
+RCPT/CHQ DATE   :  07/09/17    
+RECEIPTS AMOUNT :  26500   
+------------------------------------------------------------
+GL ACCOUNTS     :  184              908  DNY  005  044  000
+GL ACCOUNTS     :  10681.75         908  DNY  580  101  000
+GL ACCOUNTS     :  15606.25         908  DNY  580  131  000
+GL ACCOUNTS     :  28               908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586118
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  6000    
+------------------------------------------------------------
+GL ACCOUNTS     :  5258             908  DNY  580  131  000
+GL ACCOUNTS     :  742              908  DNY  580  181  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586119
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  15600   
+------------------------------------------------------------
+GL ACCOUNTS     :  190              908  DNY  005  044  000
+GL ACCOUNTS     :  11212.29         908  DNY  580  101  000
+GL ACCOUNTS     :  4168.71          908  DNY  580  131  000
+GL ACCOUNTS     :  29               908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586120
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  11000   
+------------------------------------------------------------
+GL ACCOUNTS     :  44               908  DNY  005  044  000
+GL ACCOUNTS     :  7107.28          908  DNY  580  101  000
+GL ACCOUNTS     :  3841.72          908  DNY  580  131  000
+GL ACCOUNTS     :  7                908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586121
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  10000   
+------------------------------------------------------------
+GL ACCOUNTS     :  354              908  DNY  005  044  000
+GL ACCOUNTS     :  3402.81          908  DNY  580  101  000
+GL ACCOUNTS     :  6189.19          908  DNY  580  131  000
+GL ACCOUNTS     :  54               908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586122
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  27200   
+------------------------------------------------------------
+GL ACCOUNTS     :  221              908  DNY  005  044  000
+GL ACCOUNTS     :  17305.44         908  DNY  580  101  000
+GL ACCOUNTS     :  9661.56          908  DNY  580  131  000
+GL ACCOUNTS     :  12               908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586131
+REASON CODE     :  SM7
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  608855    
+BANK CODE       :  713
+BRANCH CODE     :  132
+RCPT/CHQ DATE   :  07/09/17    
+RECEIPTS AMOUNT :  21005   
+------------------------------------------------------------
+GL ACCOUNTS     :  12179.19         908  DNY  540  010  000
+GL ACCOUNTS     :  8825.81          908  DNY  540  069  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586145
+REASON CODE     :  SM2
+CASH BOOK CODE  :  CH1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  15000   
+------------------------------------------------------------
+GL ACCOUNTS     :  256              908  DNY  005  044  000
+GL ACCOUNTS     :  6413.99          908  DNY  580  101  000
+GL ACCOUNTS     :  8305.01          908  DNY  580  131  000
+GL ACCOUNTS     :  25               908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586148
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  4000    
+------------------------------------------------------------
+GL ACCOUNTS     :  4000             908  DNY  580  131  000
+____________________________________________________________
+RECEIPTS NO     :  DNY/R586149
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  35000   
+------------------------------------------------------------
+GL ACCOUNTS     :  1116             908  DNY  005  044  000
+GL ACCOUNTS     :  652.17           908  DNY  035  020  000
+GL ACCOUNTS     :  8354.13          908  DNY  580  101  000
+GL ACCOUNTS     :  18708.87         908  DNY  580  131  000
+GL ACCOUNTS     :  6000             908  DNY  710  113  000
+GL ACCOUNTS     :  168.83           908  DNY  840  606  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586123
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  20000   
+------------------------------------------------------------
+GL ACCOUNTS     :  8                000  000  840  606  000
+GL ACCOUNTS     :  50               000  200  005  044  000
+GL ACCOUNTS     :  18867            000  200  580  101  000
+GL ACCOUNTS     :  1075             000  200  580  131  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586124
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  102000  
+------------------------------------------------------------
+GL ACCOUNTS     :  59170.42         000  200  580  101  000
+GL ACCOUNTS     :  42829.58         000  200  580  131  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586125
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  16000   
+------------------------------------------------------------
+GL ACCOUNTS     :  1257             000  Q00  005  013  000
+GL ACCOUNTS     :  14096.14         000  Q00  540  020  000
+GL ACCOUNTS     :  646.86           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586126
+REASON CODE     :  SM7
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  82000   
+------------------------------------------------------------
+GL ACCOUNTS     :  610              000  200  005  002  000
+GL ACCOUNTS     :  63651.52         000  200  540  002  000
+GL ACCOUNTS     :  17738.48         000  200  540  062  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586127
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  14870   
+------------------------------------------------------------
+GL ACCOUNTS     :  8198.41          000  200  580  101  000
+GL ACCOUNTS     :  6671.59          000  200  580  131  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586128
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  2745    
+------------------------------------------------------------
+GL ACCOUNTS     :  1614.57          000  Q00  540  020  000
+GL ACCOUNTS     :  1130.43          000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586129
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  520     
+------------------------------------------------------------
+GL ACCOUNTS     :  3                000  Q00  005  013  000
+GL ACCOUNTS     :  515.69           000  Q00  540  020  000
+GL ACCOUNTS     :  1.31             000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586130
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  5000    
+------------------------------------------------------------
+GL ACCOUNTS     :  3744             000  Q00  540  020  000
+GL ACCOUNTS     :  1256             000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586132
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  194689    
+BANK CODE       :  731
+BRANCH CODE     :  035
+RCPT/CHQ DATE   :  07/09/17    
+RECEIPTS AMOUNT :  39587   
+------------------------------------------------------------
+GL ACCOUNTS     :  24               000  000  840  606  000
+GL ACCOUNTS     :  1004             000  200  005  044  000
+GL ACCOUNTS     :  25336.57         000  200  580  101  000
+GL ACCOUNTS     :  8058.43          000  200  580  131  000
+GL ACCOUNTS     :  5164             000  200  580  181  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586133
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  991262    
+BANK CODE       :  708
+BRANCH CODE     :  777
+RCPT/CHQ DATE   :  07/09/17    
+RECEIPTS AMOUNT :  550000  
+------------------------------------------------------------
+GL ACCOUNTS     :  7568.66          000  000  840  606  000
+GL ACCOUNTS     :  49938            000  200  005  044  000
+GL ACCOUNTS     :  402212.67        000  200  580  101  000
+GL ACCOUNTS     :  88976.33         000  200  580  131  000
+GL ACCOUNTS     :  1304.34          000  L00  035  020  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586134
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  10000   
+------------------------------------------------------------
+GL ACCOUNTS     :  8299.82          000  200  580  101  000
+GL ACCOUNTS     :  1700.18          000  200  580  131  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586135
+REASON CODE     :  SM2
+CASH BOOK CODE  :  COM
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  250000  
+------------------------------------------------------------
+GL ACCOUNTS     :  68               000  000  840  606  000
+GL ACCOUNTS     :  4261             000  200  005  044  000
+GL ACCOUNTS     :  75934.89         000  200  580  101  000
+GL ACCOUNTS     :  119736.11        000  200  580  131  000
+GL ACCOUNTS     :  50000            000  200  710  115  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586136
+REASON CODE     :  SM5
+CASH BOOK CODE  :  COM
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  8946    
+------------------------------------------------------------
+GL ACCOUNTS     :  8237.78          000  Q00  540  020  000
+GL ACCOUNTS     :  708.22           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586137
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  557079    
+BANK CODE       :  701
+BRANCH CODE     :  689
+RCPT/CHQ DATE   :  28/08/17    
+RECEIPTS AMOUNT :  3976    
+------------------------------------------------------------
+GL ACCOUNTS     :  309              000  Q00  005  013  000
+GL ACCOUNTS     :  2993.59          000  Q00  540  020  000
+GL ACCOUNTS     :  673.41           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586138
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  442338    
+BANK CODE       :  701
+BRANCH CODE     :  679
+RCPT/CHQ DATE   :  28/08/17    
+RECEIPTS AMOUNT :  11928   
+------------------------------------------------------------
+GL ACCOUNTS     :  8754.79          000  Q00  540  020  000
+GL ACCOUNTS     :  3173.21          000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586139
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  442338    
+BANK CODE       :  701
+BRANCH CODE     :  679
+RCPT/CHQ DATE   :  28/08/17    
+RECEIPTS AMOUNT :  5781    
+------------------------------------------------------------
+GL ACCOUNTS     :  1                000  Q00  005  013  000
+GL ACCOUNTS     :  5546.46          000  Q00  540  020  000
+GL ACCOUNTS     :  233.54           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586140
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  727344    
+BANK CODE       :  701
+BRANCH CODE     :  543
+RCPT/CHQ DATE   :  29/08/17    
+RECEIPTS AMOUNT :  5964    
+------------------------------------------------------------
+GL ACCOUNTS     :  5842.3           000  Q00  540  020  000
+GL ACCOUNTS     :  121.7            000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586141
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  303912    
+BANK CODE       :  713
+BRANCH CODE     :  041
+RCPT/CHQ DATE   :  25/08/17    
+RECEIPTS AMOUNT :  4772    
+------------------------------------------------------------
+GL ACCOUNTS     :  1                000  Q00  005  013  000
+GL ACCOUNTS     :  4673.83          000  Q00  540  020  000
+GL ACCOUNTS     :  97.17            000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586142
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  303912    
+BANK CODE       :  713
+BRANCH CODE     :  041
+RCPT/CHQ DATE   :  25/08/17    
+RECEIPTS AMOUNT :  3182    
+------------------------------------------------------------
+GL ACCOUNTS     :  42.7             000  Q00  035  007  000
+GL ACCOUNTS     :  3115.91          000  Q00  540  020  000
+GL ACCOUNTS     :  23.39            000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586143
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  335775    
+BANK CODE       :  701
+BRANCH CODE     :  660
+RCPT/CHQ DATE   :  25/08/17    
+RECEIPTS AMOUNT :  3000    
+------------------------------------------------------------
+GL ACCOUNTS     :  2502.79          000  Q00  540  020  000
+GL ACCOUNTS     :  497.21           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586144
+REASON CODE     :  SM5
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :  335775    
+BANK CODE       :  701
+BRANCH CODE     :  660
+RCPT/CHQ DATE   :  25/08/17    
+RECEIPTS AMOUNT :  4137    
+------------------------------------------------------------
+GL ACCOUNTS     :  1932.2           000  Q00  540  020  000
+GL ACCOUNTS     :  2204.8           000  Q00  540  060  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586146
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  20000   
+------------------------------------------------------------
+GL ACCOUNTS     :  37               000  000  840  606  000
+GL ACCOUNTS     :  1379             000  200  005  044  000
+GL ACCOUNTS     :  18584            000  200  710  115  000
+____________________________________________________________
+RECEIPTS NO     :  HED/R586147
+REASON CODE     :  SM2
+CASH BOOK CODE  :  BR1
+CHEQUE NO       :            
+BANK CODE       :     
+BRANCH CODE     :     
+RCPT/CHQ DATE   :              
+RECEIPTS AMOUNT :  50000   
+------------------------------------------------------------
+GL ACCOUNTS     :  50000            000  BRN  580  101  000

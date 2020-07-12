@@ -1,0 +1,2 @@
+Sold note need Recipt Details
+Client Statement should be printedas Ledger card with Date Range

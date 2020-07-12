@@ -1,0 +1,17 @@
+Trial Balance Outsanding should be displaed the Status N+L(Non Performing and Laps)
+Dont Display the Inactive Interest Rate
+make unlimited for connectvity
+Certifaicate of Advance (Interest Accrude to Income should be A+ L)
+Mailing Address to be Implemented
+Redeem Credit voucher should be printedthe Ticket No insted Receipts no
+Redeem Credit voucher orverdue interst to be printed
+if the cleint done a part payment Redeem Credit voucher should be printed as "Part Payment"
+Trial Balance Outsanding with caratage should be displaed the individual item weight
+Switching the user's Branch 
+Trial Balance Outsanding with caratage thsese column should be implemented Interest Rate Accrued Interest
+Stamduty Report
+Daily Payment Report to be generated for all Barnch
+
+
+
+

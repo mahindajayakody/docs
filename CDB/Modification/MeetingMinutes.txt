@@ -1,0 +1,19 @@
+1.       Changes suggested to Pawning manual to comply with the system features
+
+1.1   Item No 7.4 – to be change to – “ However, in premature redemption the interest should be calculated as at date”
+
+1.2   Item No 14.2 – to be change to – The Pawner can redeem the articles anytime within the contracted period by paying all money due to the bank(capital+ interest+ any charges) and surrendering the original pawn Ticket. In the instances of premature redemption the interest to be calculated as at date and if the interest amount is less than Rs. 250/-, Rs. 250 to be charged as interest.
+
+1.3   Item No 23 – to be removed
+
+2.       It was decided to arrange system generated pawning ticket and to use manual tickets in proposed new locations until arrange the system
+
+3.       Pawning division have to e-mail the letter formats to the system provider  after arrange the same in a economic size
+
+4.       It was decided to allow Pawning Assistant to “Authorized” the system data entries due to practical difficulties in assign pawning officer to do so. However Pawning Officer will authorized the Pawning Ticket to maintain the segregation of duties.  
+
+5.        Day end process will be done in branch vice until arrange the auto day end process.
+
+6.       Back up will be arranged  along with the automatic day end process
+
+ 

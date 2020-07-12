@@ -1,0 +1,11 @@
+Reminder Printing - Free
+All Branch DayEnd - Chargeable
+Daily Pawining and Daily Payment should have All Branch - Chargable
+Recipt RePrint Chargable
+User Canbe Lock
+Facility Block Option
+OD Calculation Laps
+Client Wise Explosure
+Facility Should Automatically be closed once total is 0
+
+

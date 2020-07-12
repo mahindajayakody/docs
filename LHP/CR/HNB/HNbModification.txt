@@ -1,0 +1,11 @@
+HNB
+ 
+1. I have attached the rpt files of “Normal” and “Privilege” chq reports. Font size need to be like in those attached files.
+ 
+2. CHQ printing without selecting sub book type. (“All” option)
+ 
+3. Sub book type need to be display in the job detail report.
+ 
+4. Summary report branch wise like “BOC”.
+ 
+5.HNB correction print

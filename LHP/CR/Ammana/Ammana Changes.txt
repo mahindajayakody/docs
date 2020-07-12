@@ -1,0 +1,9 @@
+Amãna bank
+ 
+1. Amãna bank correction print
+ 
+2. Amãna Monthly summary report with 10,25,50,100 columns.
+ 
+3. In the job detail report “MICR” and “Customer Account No” columns need to change. (Currently Customer Account no display in the MICR column. And MICR no display in the Customer Account No column. )
+ 
+4. Need to include special delivery branch in the “Job details report.”
